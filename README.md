@@ -1,5 +1,4 @@
-# 3 PAGE WRITE UP: Predicting Amazon Movie Review Star Ratings
-
+# Both the write up and my citations can be found as pdf's in the repo, but I've pasted them here as well with some styling:
 ## Introduction
 The objective of this project is to predict the star ratings of Amazon Movie Reviews using the available features. This document outlines the final algorithm implemented, the feature engineering techniques employed, the rationale behind model selection, and the special methods used to enhance performance. The focus is on the analytical approach and insights gained rather than on code specifics.
 
